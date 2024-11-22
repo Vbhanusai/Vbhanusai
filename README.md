@@ -6,82 +6,111 @@
 
 ## Connect with me:
 <a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="100"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="120"/>
 </a>
 <a href="https://www.codechef.com/users/">
-  <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" alt="CodeChef" width="100"/>
+  <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" alt="CodeChef" width="120"/>
 </a>
 <a href="https://www.leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode" alt="leetcode" width="100"/>
+  <img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode" alt="leetcode" width="120"/>
 </a>
 
 ## Languages and Tools:
 
-<table style="border-collapse: collapse; text-align: center; margin: auto;">
+<table style="border-collapse: collapse; text-align: center; margin: auto; border: none;">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /><br>
-      Python
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+      </a>
+      <div>Python</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /><br>
-      C
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+      </a>
+      <div>C</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /><br>
-      TensorFlow
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
+      </a>
+      <div>TensorFlow</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" /><br>
-      Keras
+      <a href="https://keras.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="50" height="50" />
+      </a>
+      <div>Keras</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /><br>
-      PyTorch
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" />
+      </a>
+      <div>PyTorch</div>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="40" height="40" /><br>
-      Scikit Learn
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="50" height="50" />
+      </a>
+      <div>Scikit Learn</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" /><br>
-      OpenCV
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" />
+      </a>
+      <div>OpenCV</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /><br>
-      Pandas
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+      </a>
+      <div>Pandas</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /><br>
-      NumPy
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
+      </a>
+      <div>NumPy</div>
     </td>
     <td>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" /><br>
-      Seaborn
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />
+      </a>
+      <div>Seaborn</div>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" /><br>
-      Matplotlib
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" />
+      </a>
+      <div>Matplotlib</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" /><br>
-      Flask
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />
+      </a>
+      <div>Flask</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /><br>
-      MySQL
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+      </a>
+      <div>MySQL</div>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-      MongoDB
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+      </a>
+      <div>MongoDB</div>
     </td>
     <td></td>
   </tr>
 </table>
+
 
 
 
