@@ -6,13 +6,13 @@
 
 ## Connect with me:
 <a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" width="100"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="100"/>
 </a>
 <a href="https://www.codechef.com/users/">
-  <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" width="100"/>
+  <img src="https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef" alt="CodeChef" width="100"/>
 </a>
 <a href="https://www.leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode" width="100"/>
+  <img src="https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode" alt="leetcode" width="100"/>
 </a>
 
 ## Languages and Tools:
